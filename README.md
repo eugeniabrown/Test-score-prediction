@@ -9,14 +9,14 @@ _Information on data_
 Description: This dataset contains information on the performance of high school students in mathematics, including their grades and demographic information. The data was collected from three high schools in the United States.
 
 Columns:
-• Gender: The gender of the student (male/female)
-• Race/ethnicity: The student's racial or ethnic background (Asian, African-American, Hispanic, etc.)
-• Parental level of education: The highest level of education attained by the student's parent(s) or guardian(s)
-• Lunch: Whether the student receives free or reduced-price lunch (yes/no)
-• Test preparation course: Whether the student completed a test preparation course (yes/no)
-• Math score: The student's score on a standardized mathematics test
-• Reading score: The student's score on a standardized reading test
-• Writing score: The student's score on a standardized writing test
+1. Gender: The gender of the student (male/female)
+2. Race/ethnicity: The student's racial or ethnic background (Asian, African-American, Hispanic, etc.)
+3. Parental level of education: The highest level of education attained by the student's parent(s) or guardian(s)
+4. Lunch: Whether the student receives free or reduced-price lunch (yes/no)
+5. Test preparation course: Whether the student completed a test preparation course (yes/no)
+6. Math score: The student's score on a standardized mathematics test
+7. Reading score: The student's score on a standardized reading test
+8. Writing score: The student's score on a standardized writing test
 
 _Project stages_
 1. Checking for missing values and outliers
